@@ -28,7 +28,7 @@
 4) расчёт взвешенной интегральной оценки социальной результативности изучаемого городского цифрового сервиса.
 
 **Схема метода**
-![Схема метода](https://github.com/metelyovochka/Assessment-of-the-social-impact-of-urban-digital-services/blob/main/method.png)
+![Схема метода](metelyovochka/Assessment-of-the-social-impact-of-urban-digital-services/blob/main/research/method.png)
 
 **Расшифровка интегральной оценки**
  Интегральная оценка | Характеристика |
